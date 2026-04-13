@@ -93,5 +93,6 @@ contar('/', 1, 10, 20, 30, 40, 50)
 function soma(a, b){
     return a+b
 }
+
 let total = soma(3,2)
 console.log(total)
